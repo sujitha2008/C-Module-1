@@ -1,8 +1,12 @@
-EX NO- 1 a)- Finding the ASCII value AIM: Write a C program to find the ASCII value of a given character. ALGORITHM:
+EX NO- 1 a)- Finding the ASCII value AIM: Write a C program to find the ASCII value of a given character. 
 
-Take the given character as input form the user using scanf function.
-Convert the character into ASCII value using %d.
-Then print the result using printf function. PROGRAM:
+ALGORITHM:
+
+1.Take the given character as input form the user using scanf function.
+2.Convert the character into ASCII value using %d.
+3.Then print the result using printf function. 
+
+PROGRAM:
 #include<stdio.h>
 int main()
 {
