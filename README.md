@@ -1,4 +1,4 @@
-**EX NO- 1 a)- Finding the ASCII value **
+**EX NO- 1 a)- Finding the ASCII value** 
 
 **AIM:** 
 
