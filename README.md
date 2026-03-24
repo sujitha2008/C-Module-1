@@ -3,21 +3,33 @@ EX NO- 1 a)- Finding the ASCII value AIM: Write a C program to find the ASCII va
 ALGORITHM:
 
 1.Take the given character as input form the user using scanf function.
+
 2.Convert the character into ASCII value using %d.
+
 3.Then print the result using printf function. 
 
 PROGRAM:
+
 #include<stdio.h>
+
 int main()
+
 {
+    
     char ch1;
+    
     scanf("%c",&ch1);
+    
     printf("ASCII value of %c is %d",ch1,ch1);
+    
     return 0;
+    
 }
 
 OUTPUT:
+
 ![Module 1 Output](https://github.com/user-attachments/assets/139d6bd1-4a17-49e8-97dd-fbb0529945c9)
 
 RESULT:
+
 Thus the program to find the ASCII value of a given character has been executed successfully.
