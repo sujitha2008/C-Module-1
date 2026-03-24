@@ -14,6 +14,7 @@ Write a C program to find the ASCII value of a given character.
 
 **PROGRAM:**
 
+```
 #include<stdio.h>
 
 int main()
@@ -29,6 +30,7 @@ int main()
     return 0;
     
 }
+```
 
 **OUTPUT:**
 
